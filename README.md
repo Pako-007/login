@@ -1,4 +1,5 @@
-# Login
+# Aplicion Completa ( Login, Privilegios, CRUD) mediane API  con Firebase y Angular 8
+### Lic. Pako Mtz Rmz
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
 
